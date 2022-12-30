@@ -10,19 +10,24 @@
 <body>
   <div>
     <h2>Add Todo</h2>
-    <form>
-        <label>
-          Title
-          <input name="title" />
-        </label>
-        <input type="submit" value="Add"></input>
-    </form>
+    <form id="myForm">
+      <label>
+        Title
+        <!-- <input name="title" /> -->
+      </label>
+      <input type="text"  id="myInput"></input>
+      <button type="submit">Submit</button>
+
+  </form>
   </div>
   <div>
     <h2>Todo List</h2>
-    <ul id="todo-list">
+    <ul id="myList">
 
     </ul>
+
+
+    <script src="index.js"></script>
   </div>
 </body>
 </html>

@@ -14,6 +14,31 @@
       "id": 3,
       "title": "Fix the gutters",
       "completed": true
+    },
+    {
+      "title": "feed dog",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "go for walk",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "run 5 miles",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "title": "go shopping",
+      "completed": true,
+      "id": 7
+    },
+    {
+      "title": "practise fiddle",
+      "completed": false,
+      "id": 8
     }
   ]
 }
